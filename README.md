@@ -1,16 +1,38 @@
-# 🚧 README em construção 🚧
+# Docker To-Do List Project
 
-<!-- Olá, Tryber!
+## Goal
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+### Learn Docker commands
 
-É essencial que você preencha esse documento por conta própria, ok?
+#### First part:
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+1. Create an interactive container
+2. Start the container
+3. List containers by name
+4. Execute a command inside the container without `attach`
+5. Remove the running container
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+#### Second part:
 
--->
+1. Pull an image from _Docker Hub_
+2. Run a detached container with the image in a specific version mapping to a specific port
+3. Stop the container
+
+#### Third part:
+
+1. Create _Dockerfiles_ in the `todo-app` directory
+2. Build images using the _Dockerfiles_
+
+#### Fourth part:
+
+1. Use `docker-compose` to connect the application parts
+  - Use images created in the third part
+##
+
+##
+
+#### First project using Docker
+
+##
+
+> Running application provided by Trybe
